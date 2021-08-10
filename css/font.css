@@ -1,0 +1,20 @@
+@font-face{
+    font-family:'Montserrat-Regular';
+    src: url(../font/Montserrat/Montserrat-Regular.ttf);
+}
+@font-face{
+    font-family:'OpenSans-Regular';
+    src: url(../font/Open_Sans/OpenSans-Regular.ttf);
+}
+@font-face{
+    font-family:'OtomanopeeOne-Regular';
+    src: url(../font/Otomanopee_One/OtomanopeeOne-Regular.ttf);
+}
+@font-face{
+    font-family:'Raleway-VariableFont_wght';
+    src: url(../font/Raleway/Raleway-VariableFont_wght.ttf);
+}
+@font-face{
+    font-family:'Roboto-Regular';
+    src: url(../font/Roboto/Roboto-Regular.ttf);
+}

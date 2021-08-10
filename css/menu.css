@@ -1,0 +1,99 @@
+
+/********************************MENU*****************************************/
+.contenedor .head{
+    height: 150px;
+    border-bottom: 4px solid rgb(233, 138, 242);
+    background: #E7B7AB;
+    color:#fff;
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+.head{
+    margin:auto;
+    width:100%;
+    font-family:'Raleway-VariableFont_wght';
+    margin-top: 1px;
+}
+.nav li a {
+    background-color:#ffffff;
+    color:rgb(250, 248, 248);
+    text-decoration:none;
+    padding:10px 12px;
+    display:block;
+}
+/******************************************************************************/
+.contenedor .head nav{
+    margin-left: 315px;
+}
+.contenedor .head nav ul{
+    display: block;
+    /* overflow: hidden; Limpiamos errores de float */
+}
+.contenedor .head nav ul li{
+    display: block;
+    font-weight: 300;
+}
+.head nav ul li a:link{
+    color: #fff;
+    text-decoration: underline;
+    text-decoration: none;
+}
+.contenedor .head nav ul li{
+    color: #ffffff;
+    display: inline-block;
+    padding: 8px;
+    margin-left: 13px;
+    margin-top: 57px;
+}
+.contenedor .head nav li:hover{
+    color:#dce;
+    background: rgba(128, 17, 17, 0.432);
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    cursor: pointer;
+    transition: .4s;
+}
+/*****************************Login************************************/
+.lgin{
+    font-size: 30px;
+    margin-top: -95px;
+    margin-left: 900px;
+    color:#fff;
+    font-family:'OpenSans-Regular';
+    float: right;
+    cursor: pointer;
+    position: absolute;
+}
+/*****************************Login Fin************************************/
+/*********************************** FRANJAS ****************************************/
+
+.submenu{
+    width: 790px;
+    height: 50px;
+    background: #1f1b1b;
+    margin-top: -95px;
+    margin-left: 213px;
+    border-bottom-left-radius: 123px 104px ;
+    position: absolute;
+    z-index: auto;
+}
+.submenu1{
+    width: 790px;
+    height: 50px;
+    background: #FBF3EC;
+    margin-top: 11px;
+    margin-left: 213px;
+    border-top-left-radius: 123px 104px ;
+    position: absolute;
+    z-index: auto;
+}
+.informe{
+    color:rgb(19, 204, 13);
+    font-family:'OpenSans-Regular' ;
+    font-size: 19px;
+    margin-left: 122px;
+    margin-top: -60px;
+}
+/*********************************** FRANJAS FIN ****************************************/

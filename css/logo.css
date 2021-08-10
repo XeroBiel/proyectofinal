@@ -1,0 +1,11 @@
+/*********************************** LOGO ****************************************/
+.jdo{
+    width: 180px;
+    height: 130px;
+    position: absolute;
+    z-index: auto;
+    margin-top: -80px;
+    margin-left: 15px;
+    cursor: pointer;
+}
+/*********************************** LOGO FIN ****************************************/

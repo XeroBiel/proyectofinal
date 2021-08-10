@@ -1,0 +1,161 @@
+/************************** Footer *************************************/
+.foot{
+    height: 280px;
+    /* background: rgb(63, 63, 63); */
+    background: #dbdada;
+    color:rgb(39, 36, 36);
+    grid-column: span 3;
+    border-radius: 3px;
+    border-bottom: 50px solid rgb(27, 27, 27);
+}
+.contenedor .foote{
+    height: 140px;
+    background: rgb(46, 45, 45);
+    color:rgb(39, 36, 36);
+    grid-column: span 3;
+}
+.infor{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 14px;
+}
+.infor:hover{
+    color:rgb(182, 182, 175);
+    cursor: pointer;
+}
+.prove{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.prove:hover{
+    color:rgb(182, 182, 175);
+    cursor: pointer;
+}
+.tiend{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tiend:hover{
+    color:rgb(182, 182, 175);
+    cursor: pointer;
+}
+.corro{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.corro:hover{
+    color:rgb(132, 112, 246);
+    cursor: pointer;
+}
+.tell{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left: 123px;
+    margin-top: 12px;
+}
+.tell:hover{
+    color:rgb(132, 112, 246);
+    cursor: pointer;
+}
+/***************************************************************/
+
+.jd{
+    color:rgb(255, 255, 255);
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 123px;
+    margin-top: 20px;
+    width: 90px;
+    height: 40px;
+    border-radius: 3px;
+    background: rgb(65, 64, 64);
+    text-align: center;
+    justify-content: center;
+}
+.copyjd{
+    color:rgb(255, 255, 255);
+    font-size: 18px;
+    font-family:'OpenSans-Regular';
+    font-weight: 900;
+    margin-left: 403px;
+    margin-top: 82px;
+}
+.servcos{
+    color:rgb(1, 1, 1);
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 423px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: auto;
+}
+/***************** Redes socilaes ******************/
+.pypl{
+    margin-left: 673px;
+    margin-top: -130px;
+    position: absolute;
+    z-index: auto;
+}
+.cardet{
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    margin-left: 3px;
+}
+.rdscials{
+    color:rgb(1, 1, 1);
+    font-size: 23px;
+    font-family:'OpenSans-Regular';
+    font-weight: 600;
+    margin-left: 753px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: auto;
+}
+/***************** Reds de informacion *******************/
+
+.icon{
+    margin-left: 123px;
+    margin-top: -135px;
+}
+.icon1{
+    width: 20px;
+    height: 20px;
+    display: block;
+    margin-left: 290px;
+    padding: 4px;
+    margin-top: -19px;
+}
+.inff{
+    color:rgb(1, 1, 1);
+    font-size: 13px;
+    font-family:'OpenSans-Regular';
+    margin-left:323px;
+    margin-top: 5px;
+}
+.busc{
+    width: 230px;
+    height: 30px;
+    border-radius: 6px;
+    border:1px solid rgb(253, 17, 253);
+    margin-top: -93px;
+    margin-right: 10px;
+}
+.busc:hover{
+    background: rgb(223, 221, 221);
+}
+/***************************************************************/
